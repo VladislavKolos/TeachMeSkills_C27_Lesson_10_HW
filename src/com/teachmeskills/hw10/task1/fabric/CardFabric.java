@@ -1,4 +1,4 @@
-package com.teachmeskills.hw10.task1.model.fabric;
+package com.teachmeskills.hw10.task1.fabric;
 
 import com.teachmeskills.hw10.task1.model.card.BasicCard;
 import com.teachmeskills.hw10.task1.model.card.BelCard;

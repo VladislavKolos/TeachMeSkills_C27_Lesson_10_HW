@@ -1,4 +1,4 @@
-package com.teachmeskills.hw10.task1.model.util;
+package com.teachmeskills.hw10.task1.util;
 
 import com.teachmeskills.hw10.task1.model.card.BasicCard;
 

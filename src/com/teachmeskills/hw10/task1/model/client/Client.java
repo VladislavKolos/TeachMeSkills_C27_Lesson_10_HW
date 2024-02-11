@@ -1,7 +1,7 @@
 package com.teachmeskills.hw10.task1.model.client;
 
 import com.teachmeskills.hw10.task1.model.card.BasicCard;
-import com.teachmeskills.hw10.task1.model.util.CardUtil;
+import com.teachmeskills.hw10.task1.util.CardUtil;
 
 import java.util.Locale;
 
